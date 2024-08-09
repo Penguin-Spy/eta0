@@ -1,14 +1,7 @@
 # eta0
 a metroidvania-ish game for the TI-84+ CE. not playable yet.  
-
-> [!CAUTION]  
-> Do not run this program on a real calculator in it's current state!
-
-I have only tested it in CEmu, and bugs consistently will write out of
-bounds of the display and brick the calculator (requiring reloading
-the rom). I do not know what would happen on real hardware. It would
-probably be bad.
-
+bug testing is incomplete, i would not recommend running it on 
+real hardware yet.
 
 # License
 Copyright © Penguin_Spy 2024  

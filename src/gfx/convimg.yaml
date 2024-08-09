@@ -18,7 +18,7 @@ converts:
   - name: sprites
     palette: global_palette
     images:
-      - avatar.png
+      - avatar_sprite.png
 
 outputs:
   - type: c
